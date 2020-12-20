@@ -1,5 +1,5 @@
-# Enjoy-the-show
+# Completing the Music Experience  – Intelligent Music Reactive LED Spectrum Analyzer
 ![alt-text](https://github.com/ejfarber/Enjoy-the-show/blob/main/LEDs.png)
 ## About
 
-Welcome! We love music, but music itself only appeals to one sense, sound. While traditional LED strips can create a pleasant atmosphere for listening, our reactive LEDs allow multiple senses to experience the track. Because the most advanced strips utilize a microphone, they have no efficient way to differentiate between external noise and the bass of the track. Our strip intelligently assigns different sections of the track to the respective LED segments without the need for a microphone, thus removing the existing limitations and enhancing the overall listening experience.
+Welcome! We are a three roomates who love music, but hate how it only incorporates one sense - hearing. Existing LED strips can create an exciting atmosphere for listening, but are unable to differentiate between external noise and the parts of a track due to their reliance on a microphone. Our LED strips intelligently assign different sections of the song to their respective segments without the need for a microphone. This creates an exciting atmosphere for listening, and allows multiple senses to properly experience the track. 
